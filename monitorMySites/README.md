@@ -29,4 +29,4 @@ For example if you need to run it once a day:
 0	0 *	* * /usr/bin/php /home/user_dir/public_html/monitorMySites.php
 ```
 
-If any of the web sites is hijecked you will get notified by email. You may change the email address wherever mariosk@gmail.com exists in the php script.
+If any of the web sites is hijacked you will get notified by email. You may change the email address wherever mariosk@gmail.com exists in the php script.
